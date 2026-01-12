@@ -1,2 +1,8 @@
-module gitmodule {
+/**
+ * 
+ */
+/**
+ * 
+ */
+module GitTest {
 }
